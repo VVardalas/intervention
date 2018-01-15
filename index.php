@@ -1,1 +1,9 @@
-<h1>hello</h1>
+<?php
+
+//Model
+require 'model.php';
+
+$interventions = getInterventions();
+
+// Affichage
+require 'vueAccueil.php';
