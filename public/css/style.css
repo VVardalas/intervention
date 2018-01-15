@@ -1,0 +1,15 @@
+.contenu {
+    text-align: center;
+}
+.table{
+    border: solid black 1px;
+    display: inline-block;
+}
+.h1{
+    text-align: center;
+    border: solid black 2px;
+}
+label {
+	display: inline-block;
+	margin: 10px ;
+}
